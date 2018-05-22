@@ -1,6 +1,7 @@
 body {
-    background-image: url(./images/ayanami_rei_background.png)
+    background-image: url(./images/ayanami_rei.png);
+    background-repeat: no-repeat;
 }
 table {
-    background-image: url(./images/ayanami_rei.png)
+    background-image: url(./images/ayanami_rei_background.png);
 }
