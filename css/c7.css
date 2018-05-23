@@ -1,0 +1,8 @@
+.border {
+    border-style: solid;
+    border-top-width: 1px;
+    border-right-width: 3px;
+    border-bottom-width: 10px;
+    border-left-width: 25px;
+    border-color: #1958b7;
+}
