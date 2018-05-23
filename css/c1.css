@@ -1,15 +1,19 @@
 body {
     background-color: #eaeaea
 }
+
 .red {
     background-color: #cc3300
 }
+
 .blue {
     background-color: #3366cc
 }
+
 .yellow {
     background-color: #ff9900
 }
+
 td {
     font-size: 15pt
 }
