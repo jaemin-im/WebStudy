@@ -1,0 +1,15 @@
+.border1 {
+    border-color: #3366cc;
+}
+.border2 {
+    border-color: #3366cc #ff9900;
+}
+.border3 {
+    border-color: #3366cc #ff9900 #009966 #d64617;
+}
+p {
+    border-style: dotted;
+    font-size: 15pt;
+    line-height: 150%;
+    background-color: #ffffff
+}
