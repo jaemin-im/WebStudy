@@ -1,0 +1,14 @@
+.padding1 {
+    padding: 50px 20pt 50px 20pt;
+    background-color: #0066cc;
+}
+
+.padding2 {
+    padding: 10px 50pt;
+    background-color: #009999;
+}
+
+p {
+    font-size: 15pt;
+    color: white;
+}
