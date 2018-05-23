@@ -1,0 +1,10 @@
+.position1 {
+    position: absolute;
+    top: 50px;
+    left: 30px;
+    width: 600px;
+    height: 300px;
+    background-color: #9966cc;
+    color: white;
+    font-size: 15pt;
+}
