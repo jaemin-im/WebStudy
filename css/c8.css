@@ -1,16 +1,18 @@
 .margin1 {
-    margin-top: 70px;
+    /* margin-top: 70px;
     margin-right: 30px;
     margin-bottom: 50px;
-    margin-left: 30px;
+    margin-left: 30px; */
+    margin: 70px 30px 50px 30px;
     background-color: #7cad19;
 }
 
 .margin2 {
-    margin-top: 10px;
+    /* margin-top: 10px;
     margin-right: 70px;
     margin-bottom: 10px;
-    margin-left: 70px;
+    margin-left: 70px; */
+    margin: 10px 70px 10px 70px;
     background-color: #ff9900;
 }
 
